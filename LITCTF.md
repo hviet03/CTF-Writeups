@@ -72,11 +72,9 @@ Trong kết quả trả về sẽ có file flag.txt, làm tương tự như trê
 ### Recon
 
 ![](https://hackmd.io/_uploads/rJgqLBNTin.png)
-- Đầu tiên khi vừa mới vào trong bài ta có thể thấy được một đoạn json được in ra cho người dùng ngoài ra thì không còn gì khác nên chúng ta sẽ phân tích source code và exploit luôn
+- Đầu tiên khi vừa mới vào trong bài ta có thể thấy được một đoạn json được in ra cho người dùng ngoài ra thì không còn gì khác nên chúng ta sẽ phân tích source code
 
 ### Exploit
-
-- Bài có cung cấp source code cho chúng ta nên hãy phân tích nó một cách cẩn thận
 
 ![](https://hackmd.io/_uploads/HJHl8ETih.png)
 
